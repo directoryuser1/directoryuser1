@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akapeakk" alt="≧▽≦">>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akapeakk" alt="≧▽≦">
 </p>
 
 
