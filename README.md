@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/736x/fa/19/b4/fa19b493037a1ed9127bb81f20270319.jpg" width="400px">
+<img src="file:///C:/Users/Ani/Downloads/vvsjqRn.jpeg" width="400px">
 
 <p align="center">
   <a href="https://valentinev.straw.page/">straw!</a> ・
