@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akapeakk" alt="≧▽≦">
+![](https://komarev.com/ghpvc/?username=akapeakk&label=≧▽≦&color=afdfb7&style=plastic)
 </p>
 
 
