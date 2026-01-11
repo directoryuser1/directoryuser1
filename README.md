@@ -8,6 +8,10 @@
 
 
 
+<p align="center">
+  <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  
+  </a>
+</p>
 
 
 <p align="center">
@@ -28,10 +32,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  
-  </a>
-</p>
   
 <p align="center">
   // - - - - - - - - - - - - - - - - - - - //
