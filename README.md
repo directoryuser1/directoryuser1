@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-![](https://komarev.com/ghpvc/?username=directoryuser1)
+<img src="https://komarev.com/ghpvc/?username=directoryuser1" />
+
 
 
 
