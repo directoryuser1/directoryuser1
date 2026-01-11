@@ -14,6 +14,10 @@
 ---
 
 <p align="center">
-  <a href="https://echolings.straw.page/">straw!</a> ・
-  <a href="https://www.youtube.com/watch?v=6MOi3lFHFgM&list=PLBKqXZbU3Kua8UNUJYqBtR7uWJGUCVpAv&index=110">atabook soon.. trust</a> ・
+  <a href="https://echolings.straw.page/">
+    <img src="https://img.shields.io/badge/straw!-f5dae1" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=6MOi3lFHFgM&list=PLBKqXZbU3Kua8UNUJYqBtR7uWJGUCVpAv&index=110">
+    <img src="https://img.shields.io/badge/atabook-soon..%20trust-f5dae1" />
+  </a>
 </p>
