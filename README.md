@@ -15,12 +15,13 @@
 
 <p align="center">
   <a href="https://echolings.straw.page/">
-    <img src="https://img.shields.io/badge/straw!-f5dae1?style=flat" />
+    <img src="https://img.shields.io/badge/straw!-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
   </a>
 
   &nbsp;&nbsp;
 
   <a href="https://www.youtube.com/watch?v=6MOi3lFHFgM&list=PLBKqXZbU3Kua8UNUJYqBtR7uWJGUCVpAv&index=110">
-    <img src="https://img.shields.io/badge/atabook-soon..%20trust-f5dae1?style=flat" />
+    <img src="https://img.shields.io/badge/atabook-soon..%20trust-f5dae1?style=flat&labelColor=f5dae1&color=f5dae1" />
   </a>
 </p>
+
