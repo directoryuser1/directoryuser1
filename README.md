@@ -37,6 +37,9 @@
 <p align="center">
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //
 
+  &nbsp;&nbsp;&nbsp;
+<p align="center">
+lazy readme...
 
 
   
