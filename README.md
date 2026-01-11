@@ -10,6 +10,6 @@
 
 
 <p align="center">
-  <a href="https://valentinev.straw.page/">straw!</a> ・
-  <a href="https://neospring.org/@alicesenthusiast">sign neospring!</a> ・
+  <a href="https://echolings.straw.page/">straw!</a> ・
+  <a href="https://www.youtube.com/watch?v=6MOi3lFHFgM&list=PLBKqXZbU3Kua8UNUJYqBtR7uWJGUCVpAv&index=110">atabook soon.. trust</a> ・
 </p>
