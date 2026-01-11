@@ -12,8 +12,7 @@
   <a href="https://github.com/CaptainSweeper">zabooboo ⸝⸝ captain sweeper</a>  
   </a>
 </p>
-</p>
-
+&nbsp;&nbsp;&nbsp;
 
 <p align="center">
 <img src="https://i.pinimg.com/736x/73/36/2a/73362a7bba38033eed7e62ebf2a2df8a.jpg" width="600px">
