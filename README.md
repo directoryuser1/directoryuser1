@@ -39,7 +39,7 @@
 
   &nbsp;&nbsp;&nbsp;
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 100px;">
     <img src="Captura de pantalla 2026-01-14 051425.png" width="300">
     <img src="Captura de pantalla 2026-01-21 154804.png" width="300">
 </div>
