@@ -46,6 +46,12 @@
 
 
   &nbsp;&nbsp;&nbsp;
+  <p align="center">
+<img src="Captura de pantalla 2026-01-22 063235.png" width="300px">
+  </a>
+
+&nbsp;&nbsp;&nbsp;
+
 <p align="center">
 lazy readme...
 
