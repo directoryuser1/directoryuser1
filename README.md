@@ -13,7 +13,7 @@
 
 <sub>${{\color{#e18787}{\textsf{ (´｡• ◡ •｡`) }}}}$ <img src="message.gif" width="15px"></sub>
 
-<sub>***i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable***</sub>
+<sub>***im a quiet person overall and i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable***</sub>
 
 |<sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup>|
 |------------------------------|
@@ -58,9 +58,9 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 &nbsp;&nbsp;&nbsp;
 
-****i don't oftenly approach first, interact with people first or cuddle other****
+****i don't oftenly approach first, interact with people first or cuddle others****
 
-<sub>(most of the time i prefer being cuddled, although idrm cuddling or being covered by friends)<sub/>
+<sub>tung<sub/>
  &nbsp;&nbsp;&nbsp;
  
 | read straw b4 you int |
