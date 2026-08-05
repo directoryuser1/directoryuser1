@@ -18,7 +18,7 @@
 |<sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup>|
 |------------------------------|
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&redirect=true">
+<a href="https://spotify-github-profile.kittinan.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=a0acb6&bar_color_cover=false">
 </a>
 
