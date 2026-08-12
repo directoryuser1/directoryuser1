@@ -65,3 +65,8 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
  
 | read straw b4 you int |
 |------------------------------|
+
+---
+
+<img width="90" height="30" src="District_20_Yurodivy_Hong_Lu_Idle_Animation.gif" /> [[donuqijoye de la mancha🧛🩸]](https://github.com/LCB67) tela ENFRIO PRO EL CULO
+
