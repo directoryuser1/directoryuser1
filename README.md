@@ -56,8 +56,6 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
   </sub>
 
 </p>
-
-pt-of-awesomeness
 ‎ 
 
 &nbsp;&nbsp;&nbsp;
