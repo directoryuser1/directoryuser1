@@ -62,7 +62,6 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 ****i don't oftenly approach first, interact with people first or cuddle others****
 
-<sub>tung<sub/>
  &nbsp;&nbsp;&nbsp;
  
 | read straw b4 you int |
