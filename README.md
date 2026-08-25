@@ -72,3 +72,8 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 <img width="90" height="30" src="District_20_Yurodivy_Hong_Lu_Idle_Animation.gif" /> [[donuqijoye de la mancha🧛🩸]](https://github.com/LCB67) tela ENFRIO PRO EL CULO
 
+
+
+<img src="Captura de pantalla 2026-08-25 200539.png" width="260px">
+
+<sub> whoever sent this to me, feel free to approach or whisp if you'd still like to show me the skin! (i was asleep at that time and left pt open😓) i want to avoid any misunderstandings if you think there might be </sub>
